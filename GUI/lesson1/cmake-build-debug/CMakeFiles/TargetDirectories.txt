@@ -1,5 +1,0 @@
-C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/CMakeFiles/GUIApp.dir
-C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/CMakeFiles/GUIApp_autogen_timestamp_deps.dir
-C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/CMakeFiles/GUIApp_autogen.dir
