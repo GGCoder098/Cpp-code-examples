@@ -1,3 +1,0 @@
-C:/Users/ggngr/Documents/Coding projects/c++/namespaces/cmake-build-debug/CMakeFiles/namespaces.dir
-C:/Users/ggngr/Documents/Coding projects/c++/namespaces/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ggngr/Documents/Coding projects/c++/namespaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir

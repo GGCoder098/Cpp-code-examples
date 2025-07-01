@@ -1,3 +1,0 @@
-C:/Game stuff/coding projects/c++/Multi Threading/cmake-build-debug/CMakeFiles/Multi_Threading.dir
-C:/Game stuff/coding projects/c++/Multi Threading/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Game stuff/coding projects/c++/Multi Threading/cmake-build-debug/CMakeFiles/rebuild_cache.dir

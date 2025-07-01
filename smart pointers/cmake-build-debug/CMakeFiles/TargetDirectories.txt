@@ -1,3 +1,0 @@
-C:/Users/ggngr/Documents/Coding projects/c++/smart pointers/cmake-build-debug/CMakeFiles/smart_pointers.dir
-C:/Users/ggngr/Documents/Coding projects/c++/smart pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ggngr/Documents/Coding projects/c++/smart pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

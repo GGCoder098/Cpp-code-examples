@@ -1,3 +1,0 @@
-C:/Game stuff/coding projects/c++/server-client/Client/cmake-build-debug/CMakeFiles/Client.dir
-C:/Game stuff/coding projects/c++/server-client/Client/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Game stuff/coding projects/c++/server-client/Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
