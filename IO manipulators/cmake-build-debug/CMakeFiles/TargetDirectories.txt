@@ -1,0 +1,3 @@
+C:/Users/ggngr/Documents/Coding projects/c++/IO manipulators/cmake-build-debug/CMakeFiles/IO_manipulators.dir
+C:/Users/ggngr/Documents/Coding projects/c++/IO manipulators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ggngr/Documents/Coding projects/c++/IO manipulators/cmake-build-debug/CMakeFiles/rebuild_cache.dir

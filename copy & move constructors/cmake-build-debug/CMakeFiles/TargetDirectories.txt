@@ -1,0 +1,3 @@
+C:/Users/ggngr/Documents/Coding projects/c++/copy & move constructors/cmake-build-debug/CMakeFiles/copy___move_constructors.dir
+C:/Users/ggngr/Documents/Coding projects/c++/copy & move constructors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ggngr/Documents/Coding projects/c++/copy & move constructors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/ggngr/Documents/Coding projects/c++/struct, enum, union/cmake-build-debug/CMakeFiles/struct__enum__union.dir
+C:/Users/ggngr/Documents/Coding projects/c++/struct, enum, union/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ggngr/Documents/Coding projects/c++/struct, enum, union/cmake-build-debug/CMakeFiles/rebuild_cache.dir

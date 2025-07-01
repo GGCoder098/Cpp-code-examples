@@ -1,0 +1,12 @@
+# ninja log v6
+5	119	7685776499549296	guiApp_autogen/timestamp	b3167af07ee56600
+5	119	7685776499549296	C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/guiApp_autogen/timestamp	b3167af07ee56600
+123	1245	7685776499947684	CMakeFiles/guiApp.dir/main.cpp.obj	46416dcf9b7c15b4
+1247	1361	7685776511187118	guiApp.exe	a40bc3feb4ec30cf
+5	119	7685776499549296	guiApp_autogen/mocs_compilation.cpp	b3167af07ee56600
+5	119	7685776499549296	C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/guiApp_autogen/mocs_compilation.cpp	b3167af07ee56600
+121	159	7685776499925194	CMakeFiles/guiApp.dir/guiApp_autogen/mocs_compilation.cpp.obj	f02820410ae91b42
+11	19	7685779307031658	C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug/guiApp_autogen/mocs_compilation.cpp	9ceccd2007ddaec7
+19	51	7685779307119711	CMakeFiles/GUIApp.dir/guiApp_autogen/mocs_compilation.cpp.obj	99d5dd0e45dd9897
+15	1706	7685779307074414	CMakeFiles/GUIApp.dir/main.cpp.obj	42521226ba681505
+1709	1904	7685779324008163	GUIApp.exe	21bb601bb6903a6d

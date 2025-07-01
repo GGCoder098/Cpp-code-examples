@@ -1,0 +1,4 @@
+# ninja log v6
+2	268	7691870404798287	build.ninja	de43fdd5b2fd4ba3
+14	879	7655554970227694	CMakeFiles/Server.dir/winsocket_server.cpp.obj	373283c78e772ecf
+880	958	7655554978880361	Server.exe	4740346d561756aa

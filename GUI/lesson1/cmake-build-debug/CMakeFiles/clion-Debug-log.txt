@@ -1,0 +1,5 @@
+C:\Users\ggngr\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/ggngr/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Game stuff\coding projects\c++\GUI\lesson1" -B "C:\Game stuff\coding projects\c++\GUI\lesson1\cmake-build-debug"
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (0.3s)
+-- Generating done (0.2s)
+-- Build files have been written to: C:/Game stuff/coding projects/c++/GUI/lesson1/cmake-build-debug

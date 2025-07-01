@@ -1,0 +1,6 @@
+1200
+1400
+London
+Manchester
+5
+A

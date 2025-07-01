@@ -1,0 +1,7 @@
+# ninja log v6
+3	206	7673715833080378	CMakeFiles/struct__enum__union.dir/main.cpp.obj	d0d78e4e7462e110
+208	271	7673715835119569	struct__enum__union.exe	5eb132e1d0ffc981
+16	224	7673715926128114	CMakeFiles/struct__enum__union.dir/main.cpp.obj	d0d78e4e7462e110
+224	290	7673715928206652	struct__enum__union.exe	5eb132e1d0ffc981
+24	270	7673738796690332	CMakeFiles/struct__enum__union.dir/main.cpp.obj	d0d78e4e7462e110
+270	359	7673738799157167	struct__enum__union.exe	5eb132e1d0ffc981
